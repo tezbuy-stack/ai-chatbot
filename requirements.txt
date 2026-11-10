@@ -1,0 +1,2 @@
+# No external dependencies — Python 3.8+ standard library only.
+# The optional OpenAI call uses stdlib urllib (no extra package needed).
